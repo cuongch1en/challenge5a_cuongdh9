@@ -1,0 +1,17 @@
+/* Cái này gọi là media query: để include các CSS properties khi một điều kiện nào đó đúng */
+@media(min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+}
+
+/* Để xem cái này làm gì thì comment nó lại rồi go live */
+body::before {
+    display: block;
+    content: "";
+    height: 60px;
+}
+/* 
+a {
+    
+} */

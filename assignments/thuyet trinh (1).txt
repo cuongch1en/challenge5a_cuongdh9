@@ -1,0 +1,35 @@
+thuyết trình
+II. Các tính năng nổi bật
+1. Giao diện đẹp mắt, sắp xếp rõ ràng, người dùng có thể chạm, vuốt, kéo để tương tác với đt.
+2. Khi kđ sẽ tới màn hình chính, là trung tâm điều hướng tới nhiều ứng dụng và tiện ích.
+   Vì là sp của gg nên tích hợp với các dịch vụ như ggmap, youtube, drive,... mang lại trải nghiệm người dùng liền mạch
+   và đồng bộ hóa dữ liệu trên các thiết bị khác nhau.
+3. đa nhiệm cao: cho phép ng dùng thực hiện cùng lúc nhiều công việc qua tính năng đa nhiệm và phân chia màn hình, tăng tối đa hiệu suất làm việc
+4. tính linh hoạt và tùy biến: cho phép ng dùng tự tùy chỉnh, thiết kế giao diện của máy theo sở thích, cá nhân hóa trải nghiệm
+   Ngoài ra android còn là hdh mã nguồn mở, nên cho phép ng dùng cài đặt ứng dụng từ các nguồn bên ngoài gg play store, mở ra khả năng tùy biến và sáng tạo cho ng dùng
+
+Nhưng...mã nguồn mở cũng đồng thời là con dao 2 lưỡi đối vs android, bởi vì hacker sẽ chọn hdh là mục tiêu ưu tiên đầu tiên để thực hiện tấn công.
+Tại sao ư? là hdh phổ biến nhất tg(tập người dùng lớn) và có thể dễ dàng vọc vạch hệ thống nên hacker sẽ quá thích miếng mỡ béo ngậy này. lấy vd đối thủ lớn ios
+của android, là 1 hdh đóng và quản lí chặt chẽ, chả kẻ tấn công nào mà dại dột đâm đầu vào mà gặm cục xương cứng này cả, vừa tốn công sức mà độ rủi ro cao.
+Vậy đứng trước nguy cơ bị tấn công cao như vậy, android sẽ làm gì để bảo vệ người dùng của mình? chúng ta sẽ tiếp tục với phần 3.
+
+III. các vấn đề an ninh, an toàn của android
+1. cập nhật bảo mật định kì
+Cập nhật bảo mật định kỳ là một trong những biện pháp quan trọng nhất để đảm bảo an ninh 
+và an toàn cho hệ điều hành Android. Google thường cung cấp các bản cập nhật bảo mật 
+hàng tháng cho Android, được gửi đến các nhà sản xuất thiết bị và nhà mạng di động để triển 
+khai cho người dùng cuối.
+2. các ứng dụng độc hại
+ Mặc dù Google Play Store, cửa hàng 
+ứng dụng chính thức của Android, đã triển khai các biện pháp kiểm duyệt nghiêm ngặt, 
+nhưng vẫn còn những ứng dụng không đáng tin cậy hoặc độc hại có thể xuất hiện. chúng có thể ngụy trang thành các ứng dụng vô hại 
+và phổ biến để lừa người dùng cài đặt về.
+
+
+
+Sandbox là một kỹ thuật giúp cô lập các ứng dụng, giúp bảo vệ và không cho các phần mềm độc hại xâm nhập vào máy tính, 
+điện thoại để hạn chế hỏng hệ thống máy hoặc rò rỉ các thông tin cá nhân. Trong thế giới máy tính, mỗi một phần mềm hay ứng dụng được 
+cài lên đều chia sẻ chung một bộ nhớ và đều dùng chung một CPU. Một khi các tài nguyên này được dùng chung, sẽ dẫn đến khả năng một 
+chương trình hay ứng dụng sẽ chiếm toàn bộ máy tính của bạn, truy cập đến tất cả vị trí bộ nhớ hay sử dụng CPU không có kiểm soát. 
+Vì vậy, sandbox ra đời để đặt các chương trình, ứng dụng nằm trong phạm vi quản lý. Sandbox sẽ giới hạn chức năng của một đoạn mã nào đó và cấp quyền cho chúng chỉ được hiện một số chức
+ năng nhất định, không cho nó thực hiện những chức năng khác gây nguy hại đến máy tính của bạn.

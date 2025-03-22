@@ -1,0 +1,5 @@
+các bước kéo code về, rồi đẩy lại thay đổi lên:
+git add .
+git status (kiểm tra những file thay đổi)
+git commit -m "update cái gì đó"
+git push
